@@ -2,6 +2,8 @@
 
 ![GitHub_Action_Linux_CI](https://github.com/AtsushiSakai/PythonRobotics/workflows/Linux_CI/badge.svg)
 
+## Project Description
+
 This repository is a part of the diploma project at the Faculty of [Electrical Engineering and Computing, University of Zagreb](https://www.fer.unizg.hr/), [Laboratory for Underwater Systems and Technologies](https://labust.fer.hr/). 
 Repository is a predecessor of the diploma thesis repository [Model-informed path planning and control for autonomous vessels](https://github.com/kr1zzo/Model-Informed-Path-Planning) and it is used for concept validation and testing of path planning A* algorithm on the 2D grid cost map. The algorithm is implemented in Python and uses the Pygame library for visualization.
 
